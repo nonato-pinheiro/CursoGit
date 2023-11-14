@@ -1,0 +1,1 @@
+este é um projeto na qual será utilizado comandos do Git para aprendizado.
